@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "My ap",
+    "description": "",
+    "version": "nnirvaua",
+    "id": "ckylofbp274019701s6h0wxkepz",
+    "url": "https://app.amplication.com/ckylofbp274019701s6h0wxkepz",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckylofbp274019701s6h0wxkepz",
+      "authProvider": "Jwt"
+    }
+  }
+}
